@@ -56,11 +56,6 @@ Este proyecto aplica principios como:
 ## 👩‍💻 Autor
 
 **Katerin Vega**  
-Estudiante de Ingeniería de Sistemas  
-Perú 🇵🇪  
+Estudiante de Ingeniería de Sistemas de Computaciones
+Universidad Privada del Norte
 
----
-
-## 🌟 Nota
-
-Proyecto desarrollado como parte de mi portafolio, enfocado en diseño web y experiencia de usuario.
