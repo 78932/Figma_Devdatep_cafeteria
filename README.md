@@ -19,6 +19,14 @@ Crear una landing page que:
 
 ---
 
+## 🎨 Diseño en Figma
+
+Puedes ver el prototipo completo aquí:
+
+👉 [Ver diseño en Figma](https://www.figma.com/design/ZxeeP36laFsVrLsIW4lVXl/Sin-t%C3%ADtulo?node-id=0-1&t=tuywiwJYA0K6jxYq-1)
+
+-------
+
 ## 🎨 Diseño
 
 El proyecto está basado en:
@@ -56,6 +64,6 @@ Este proyecto aplica principios como:
 ## 👩‍💻 Autor
 
 **Katerin Vega**  
-Estudiante de Ingeniería de Sistemas de Computaciones
+Estudiante de Ingeniería de Sistemas de Computaciones -
 Universidad Privada del Norte
 
